@@ -1,0 +1,32 @@
+<DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"content="width, initial-scale=1.0">
+  <title>paranaut games</title>
+  <link rel="stylesheet"href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>PARANAUT GAMES</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Accueil</a></li>
+          <li><a href="#">Jeux</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Inscriptions</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>Bienvenue sur paranaut games</h2>
+      <p>decouvrer nos jeux passionants et vivez des aventures inoubliable. ici les regle son tres simple, vous n'avez qu'a vous inscrire en cliquant sur le lien "inscriptions". puis, vous devez suivre les instructions.</p>
+      <h3>Nos jeux</h3>
+      <p>Nous avons des different jeux tel ques YU GI OH, FIFA25, NSP, NARUTO BORUTO NINJA STORM 4& ATTACK DES TITANS.
+    </main>
+    <footer>
+      <p>&copy; 2025 paranaut games. Tout droit reserves.</p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+  </html>
